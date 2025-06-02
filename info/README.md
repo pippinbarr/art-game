@@ -10,6 +10,7 @@ At some point I may port the game to JavaScript or similar, and it's possible th
 
 ## Links
 
+* [Process documentation](../process/)
 * [The original .swf file](https://github.com/pippinbarr/art-game/releases/tag/swf)
 * [Code repository](https://github.com/pippinbarr/art-game)
 

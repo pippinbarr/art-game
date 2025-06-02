@@ -1,0 +1,25 @@
+Play Session 1:
+
+I played as Alexandra Tetranov. I tried creating and recreating a lot of times (4-6 times I think). I didn't realise until my 3rd try that I could actually play Tetris(with the disappering blocks and all that). At first I was more focused on creating a piece of art, but I was annoyed that I couldn't exit the creation of a piece before I had reached the top. It seemed like an unnecessary limitation.
+In the end, when I had received the Magazine cover I was unsure whether I could restart the game or if the game had simply ended right then and there. I tried punching my keyboard but to no avail. This annoyed me, because the game gave me no feedback. No "The End" or anything. The magazine was not enough to tell me that I had to refresh to start over. 
+
+Play Session 2: 
+
+I had a minor issue when playing as Cicero Sassoon. The "ball" was in the bottom tile of the screen and so was the help text so I couldn't find it. But when the help text disappeared, I could easily find the ball again. It was a very minor nuisance for about 2 seconds. 
+It took me this Play Session to figure out whether or not it was actually possible to succeed in making a piece of art. But I'm still not sure what the criteria are. But then again, that is part of the beauty I believe. 
+Also I love that you named one piece of art "Hexagon". Go Terry, go! 
+The same issue as above occurred with the "ending" of the game. I was unsure where to go next, if anywhere. 
+
+Play Session 3:
+
+Played as William & Susan. By now I had learned some things about the game. I finally managed to get all three pieces into MoMA. Still not sure how though. It annoyed me a bit that whenever I started anew the artist on the left had to enter the rocket on the right, but then again it is good for making sure that people don't just simultaneously control the characters. It was fine, actually. 
+It did seem however as if the collision for the computer was poking out a bit so that it wasn't possible to go directly to the right after using the computer. The same thing happened with Cicero Sassoon's empty canvas.
+Sometimes pressing Space and Enter didn't work, and I needed to press several times to make sure it happened at the same time. It was as if the trigger period was too short. 
+
+Non-Usability comments: 
+
+Other than that I like the game. The gameplay caught me off-guard at first, and was a positive surprise. It's a nice commentary on the entire "art vs. games" discussion. I was also positively surprised at the neutral approach it had towards the battle between curating and producing art. After my first Play Session I was met with the neutral comment: "I'm not sure whether to blame the production or the curation of the exhibit".  It left me with some food for thought. 
+
+That was how far I got this time around. I might have a friend try it tomorrow, if you don't mind. 
+
+Thanks for having me be part of your game making adventures! I'm kind of obsessed with your work and love showing off Guru Quest among others to friends. If you ever have a guest lecture at ITU, please be sure to advertise it! 
