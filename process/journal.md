@@ -1,5 +1,21 @@
 # Journal (actually Blog Posts)
 
+## Spaceship costumes saved my day (2012-11-21)
+
+So I've been working on the new game, called _Art Game_, at a kind of desultory rate for the last couple of weeks. It's a game I'm kind of meta-enthusiastic about, but have struggled a bit with getting going. I've also been finding myself reluctant to write about it here, I suppose because it's going so slow. But that's a crappy reason, so here we are, on the blogwagon again. The game centres around making art with classic games, and it took me the longest time to pick the right three games to work with. And then recently it all fell apart. But then spaceship costumes saved my day.
+
+<!--more-->
+
+In the game you make art with games, that's the basic premise. Fairly early on I hit on the two "easiest" media for this. You use the mechanics of _Snake_ to create paintings/drawings, and you use the mechanics of _Tetris_ to create sculptures. For whatever reason those two just seemed obvious to me, and they're what got me excited about the project. But I wanted a third medium, because good things come in threes. For a long while it was a generic platformer, as a kind of performance art, but it never sat quite right with me. Then one day, I realised that _Spacewar!_ would be perfect &#8211; it's quite beautiful, like dancing, after all.
+
+So that was great until I started going into some of the details of the game. In particular, part of the intent of the game is not to acknowledge that you're using a _game_ to make art &#8211; that just happens to be the mechanics used in the simulation of art-making in the game, a kind of art-physics or something if you like. Thus the painter "really is" painting with the mechanics of _Snake_.
+
+But this ran into a hitch with _Spacewar!_ It doesn't exactly make sense to say that the performance artists (two of them, because it's a two player game, after all) _really are flying spaceships_ in order to make their art. And without a connection drawn between the "physics of art" and the physics/reality of the rest of the (virtual) world of the game, I didn't feel comfortable with moving forward at all.
+
+Then, sitting in bed one day talking to Rilla, I randomly floated the idea that in fact what the artists do is put on spaceship costumes and go into a darkened room, running around a central "star" and throwing missiles (sticks or whatever) at each other. All according to the rules of Spacewar!, but in the fiction/physics of the game, actually just their chosen form of performance. It was kind of a stupid idea, but I totally think it works, and I'm moving forward with that assumption.
+
+It's very interesting to me, this tension of "realism" in these extraordinarily unrealistic games. Coherence is deeply important, even in the middle of nonsense.
+
 ## Whose Reality Is It Anyway? (2012-11-30)
 
 Finally started making some more progress on _Art Game_ over the last couple of days, which has been a huge relief and managing to dodge it for so long. I now have the basics of the "art forms" the game involves implemented, and the all-important transition from making an artwork to the gallery space. Frankly, there's been a really weird amount of ontology going on with this game, which has been equal parts fascinating and frustration.
